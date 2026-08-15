@@ -1,0 +1,14 @@
+{
+  "content_type": "educational blog post",
+  "target_audience": "marketing managers in regulated industries",
+  "primary_goal": "Educate the reader and build trust in Lexi expertise",
+  "reader_stage": "problem aware",
+  "desired_action": "Read another related article or request a demo",
+  "tone": "expert, approachable, non-corporate",
+  "channel": "company blog",
+  "success_criteria": [
+    "Reader understands the mechanism",
+    "Claims feel credible",
+    "Next action is clear"
+  ]
+}

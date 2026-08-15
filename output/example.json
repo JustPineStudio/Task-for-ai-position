@@ -1,0 +1,240 @@
+{
+  "url": "https://lexi.hr/psiholoski-mehanizmi-iza-clickbaita/",
+  "title": "Zašto klikamo na bombastične naslove? Istražili smo psihološke mehanizme iza clickbaita",
+  "word_count": 2022,
+  "model": "reference-evaluation (generated during repository preparation; no API call)",
+  "analyzed_at": "2026-08-12T12:00:00Z",
+  "overall_score": 78.2,
+  "grade": "C",
+  "verdict": "Dobar tekst s jasnim prostorom za poboljšanje",
+  "content_profile": {
+    "content_type": "educational thought-leadership",
+    "target_audience": "Čitatelji zainteresirani za psihologiju komunikacije i digitalne medije",
+    "primary_goal": "Objasniti psihološke mehanizme clickbaita i pomoći čitatelju da ga prepozna.",
+    "reader_stage": "awareness",
+    "success_criteria": ["Razumljivi psihološki mehanizmi", "Uvjerljivi primjeri", "Primjenjivi savjeti"],
+    "rationale": "Tekst kombinira edukativno objašnjenje, izvore, osobne primjere i praktične preporuke."
+  },
+  "supplied_brief": null,
+  "outcomes": {
+    "dimensions": [
+      {"name": "Kvaliteta pisanja", "score": 79, "rationale": "Snažan glas i struktura uz ponavljanja i neprecizne tvrdnje."},
+      {"name": "Usklađenost s publikom", "score": 84, "rationale": "Primjeri i ton dobro odgovaraju širokoj digitalnoj publici."},
+      {"name": "Ostvarenje cilja", "score": 78, "rationale": "Mehanizmi su objašnjeni, ali praktični završetak može biti jasniji."},
+      {"name": "Vjerodostojnost", "score": 70, "rationale": "Izvori postoje, ali dio znanstvenih tvrdnji treba preciznije formulirati."}
+    ],
+    "publish_readiness": "minor_edits",
+    "readiness_reason": "Tekst je objavljiv nakon ciljane provjere tvrdnji, kraćenja i lekture."
+  },
+  "diagnostics": {
+    "sentence_count": 150,
+    "paragraph_count": 83,
+    "heading_count": 15,
+    "average_sentence_words": 13.5,
+    "average_paragraph_words": 24.4,
+    "long_sentence_ratio": 0.08,
+    "long_paragraph_ratio": 0.0,
+    "repeated_phrases": ["kliknuti na clickbait"],
+    "second_person_singular": 18,
+    "second_person_plural": 2,
+    "estimated_reading_minutes": 9.2
+  },
+  "segments": {
+    "assessments": [
+      {"segment_id": "intro", "heading": "Uvod", "score": 88, "role": "Privlačenje pažnje", "strength": "Osobna scena brzo uvodi problem.", "issue": "Uvod bi ranije mogao izreći središnju tezu."},
+      {"segment_id": "section-1", "heading": "Psihološki mehanizmi", "score": 76, "role": "Glavno objašnjenje", "strength": "Pojmovi su popraćeni konkretnim primjerima.", "issue": "Neke znanstvene tvrdnje formulirane su previše kategorično."},
+      {"segment_id": "section-2", "heading": "Zaključak", "score": 71, "role": "Sinteza i sljedeći korak", "strength": "Vraća se na prepoznatljivu osobnu situaciju.", "issue": "Ne sažima mehanizme u praktičnu provjeru."}
+    ],
+    "weakest_segment_id": "section-2"
+  },
+  "confidence": {
+    "level": "medium",
+    "score_min": 74.0,
+    "score_max": 82.0,
+    "standard_deviation": 2.9,
+    "largest_disagreement": "Vjerodostojnost i korisnost",
+    "sample_count": 2
+  },
+  "challenge": {
+    "findings": [],
+    "summary": "Referentni primjer prethodi izvršavanju novog challenger koraka; pokrenite aplikaciju za stvarni nalaz."
+  },
+  "editorial_plan": {
+    "priorities": [
+      {
+        "rank": 1,
+        "title": "Preciznije formulirati znanstvene tvrdnje",
+        "impact": "Povećava povjerenje bez gubitka razgovornog tona.",
+        "action": "Ublažiti kategorične uzročne tvrdnje i povezati ih s navedenim izvorima.",
+        "source_agents": ["clarity", "credibility"],
+        "rewrites": [{"before": "Klikanje na intrigantni naslov aktivira dopamin", "after": "Intrigantni naslovi mogu aktivirati sustav nagrađivanja povezan s dopaminom", "reason": "Nova verzija ne predstavlja složen odnos kao jednostavnu sigurnu uzročnost.", "validation": {"preserves_meaning": true, "introduces_unsupported_claim": false, "matches_tone": true, "solves_stated_problem": true, "quality": "better", "explanation": "Čuva smisao i preciznije izražava stupanj sigurnosti tvrdnje."}}]
+      },
+      {
+        "rank": 2,
+        "title": "Skratiti ponavljanja",
+        "impact": "Čitatelj brže dolazi do novih uvida i lakše održava pažnju.",
+        "action": "Spojiti ponovljene poante o pažnji, dopaminu i Supertalentu.",
+        "source_agents": ["structure", "clarity"],
+        "rewrites": [{"before": "I da nam svima odumiru moždane stanice dok gledamo kompilacije Supertalenta.", "after": "I da nastavimo skrolati kroz još jednu Supertalent kompilaciju.", "reason": "Zadržava motiv i ton uz manje prenaglašenu tvrdnju.", "validation": {"preserves_meaning": true, "introduces_unsupported_claim": false, "matches_tone": true, "solves_stated_problem": true, "quality": "better", "explanation": "Zadržava šalu bez nepotkrijepljene biološke formulacije."}}]
+      },
+      {
+        "rank": 3,
+        "title": "Zaključiti praktičnom provjerom",
+        "impact": "Pretvara zanimljivo objašnjenje u alat koji čitatelj može odmah primijeniti.",
+        "action": "Na kraju sažeti tri pitanja za provjeru naslova prije klika ili objave.",
+        "source_agents": ["structure", "psychology", "credibility"],
+        "rewrites": [{"before": "Samo je moramo bolje koristiti.", "after": "Prije klika pitaj: što naslov konkretno obećava, isporučuje li sadržaj to obećanje i koji izvor tvrdnju podupire?", "reason": "Opću poruku pretvara u neposredno primjenjivu provjeru.", "validation": {"preserves_meaning": true, "introduces_unsupported_claim": false, "matches_tone": true, "solves_stated_problem": true, "quality": "better", "explanation": "Pretvara opću preporuku u praktičan postupak bez novih činjenica."}}]
+      }
+    ]
+  },
+  "agents": [
+    {
+      "agent_id": "structure",
+      "perspective": "Struktura i tok",
+      "criteria": [
+        {
+          "criterion": "Obećanje i fokus",
+          "score": 86,
+          "rationale": "Naslov, sadržajni pregled i uvod jasno obećavaju psihološko objašnjenje clickbaita, a glavni odjeljci ga većinom isporučuju.",
+          "evidence": ["Zašto klikamo na ovakve naslove, iako znamo da nas često razočaraju?", "3 psihološka trika zbog kojih ne možemo odoljeti clickbaitu"],
+          "improvement": "U uvodu eksplicitno formulirati jednu središnju tezu koja povezuje sve kasnije dimenzije i trikove."
+        },
+        {
+          "criterion": "Logičan tok",
+          "score": 72,
+          "rationale": "Tekst ide od osobnog primjera preko povijesti i mehanizama do posljedica i savjeta, ali se neke ideje o pažnji, dopaminu i nepovjerenju ponavljaju.",
+          "evidence": ["Clickbait postoji stoljećima – nije samo digitalni fenomen", "Clickbait nosi svoje posljedice."],
+          "improvement": "Spojiti preklapajuće odjeljke i jasnije najaviti prijelaz s objašnjenja mehanizma na društvene posljedice."
+        },
+        {
+          "criterion": "Skenabilnost",
+          "score": 88,
+          "rationale": "Brojni informativni podnaslovi, numerirane dimenzije i praktične liste omogućuju brzo pronalaženje glavnih ideja.",
+          "evidence": ["Kako prepoznati clickbait u 5 sekundi?", "1. Ako čitaš clickbait"],
+          "improvement": "Skratiti nekoliko dugih odjeljaka i ujednačiti numeraciju kako bi hijerarhija bila još jasnija."
+        },
+        {
+          "criterion": "Završetak",
+          "score": 78,
+          "rationale": "Završetak vraća temu na osobnu priču i daje razumnu poruku o svjesnom izboru sadržaja, ali ne sažima sustavno ključne mehanizme.",
+          "evidence": ["Samo je moramo bolje koristiti.", "svjesno biramo sadržaj koji vrijedi našeg vremena"],
+          "improvement": "Dodati završni sažetak od tri kratke točke koje povezuju znatiželju, emocije i naviku."
+        }
+      ],
+      "summary": "Tekst ima snažnu makrostrukturu i izvrsnu skenabilnost. Najviše gubi zbog ponavljanja i nešto labavijeg prijelaza iz psihološkog objašnjenja prema društvenim posljedicama.",
+      "score": 80.2,
+      "weight": 0.3
+    },
+    {
+      "agent_id": "psychology",
+      "perspective": "Pažnja, motivacija i povjerenje",
+      "criteria": [
+        {
+          "criterion": "Relevantnost i benefit",
+          "score": 80,
+          "rationale": "Tekst objašnjava svakodnevno ponašanje koje čitatelj lako prepoznaje i završava savjetima za čitanje i pisanje naslova.",
+          "evidence": ["Postoji 4 načina kako odmah možete shvatiti da gledate u clickbait.", "Ako pišeš clickbait"],
+          "improvement": "Ranije i konkretnije reći što će čitatelj nakon članka moći prepoznati ili promijeniti."
+        },
+        {
+          "criterion": "Konkretnost",
+          "score": 91,
+          "rationale": "Apstraktni pojmovi stalno se prizemljuju u Supertalent, Mariah Carey, naslove knjiga i razgovor s kolegom.",
+          "evidence": ["Što dobijem? Tip koji guta mačeve.", "Zamisli da imaš kolegu s posla koji svaki drugi tjedan dolazi s novim tračem."],
+          "improvement": "Uz duhovite primjere dodati barem jedan neutralan primjer za čitatelje kojima pop-kulturne reference nisu bliske."
+        },
+        {
+          "criterion": "Pažnja i ritam",
+          "score": 85,
+          "rationale": "Osobna scena, kratke rečenice, pitanja i neočekivane usporedbe održavaju energiju kroz dug članak.",
+          "evidence": ["I onda… klik!", "Nešto kao toksična veza. Ili Kardashiansice."],
+          "improvement": "Smanjiti broj stilskih poanti u zadnjoj trećini kako bi najvažnije tvrdnje dobile više prostora."
+        },
+        {
+          "criterion": "Ton i empatija",
+          "score": 82,
+          "rationale": "Autorica se uključuje u problem i ne govori čitatelju s visine, iako poneke grublje formulacije mogu suziti publiku.",
+          "evidence": ["ja sam to napravila više puta nego što sam spremna priznati", "Pažnja nam je za k…."],
+          "improvement": "Zadržati samoironiju, ali ublažiti nekoliko izraza ako je ciljana publika šira ili poslovna."
+        }
+      ],
+      "summary": "Psihološki je tekst vrlo angažirajući: konkretan je, samoironičan i pun prepoznatljivih situacija. Korist za čitatelja postoji, ali mogla bi biti eksplicitnije obećana i sažeta.",
+      "score": 84.5,
+      "weight": 0.25
+    },
+    {
+      "agent_id": "clarity",
+      "perspective": "Jasnoća i stil",
+      "criteria": [
+        {
+          "criterion": "Razumljivost",
+          "score": 83,
+          "rationale": "Većina psiholoških pojmova objašnjena je običnim jezikom i odmah popraćena primjerom.",
+          "evidence": ["Curiosity Gap, ili praznina znanja", "kognitivna dimenzija je ona koja uključuje našu znatiželju"],
+          "improvement": "Jasnije razlikovati tri dimenzije od tri kasnija psihološka trika jer se kategorije čitatelju mogu stopiti."
+        },
+        {
+          "criterion": "Sažetost",
+          "score": 65,
+          "rationale": "Duhoviti ton daje karakter, ali nekoliko digresija i ponovljenih poanti produljuje tekst bez proporcionalno nove vrijednosti.",
+          "evidence": ["I da nam svima odumiru moždane stanice dok gledamo kompilacije Supertalenta.", "E Bože! Nikad na zelenu granu."],
+          "improvement": "Skratiti tekst za otprilike 15 posto uklanjanjem ponovljenih šala i drugog objašnjenja već postavljene ideje."
+        },
+        {
+          "criterion": "Preciznost",
+          "score": 61,
+          "rationale": "Izvori su navedeni, ali pojedine znanstvene tvrdnje formulirane su kategoričnije nego što prikazana potpora dopušta, a prisutne su i jezične pogreške.",
+          "evidence": ["prosječna pažnja smanjena na svega 8 sekundi", "Prijedlog riješenja ovog problema"],
+          "improvement": "Ublažiti uzročne tvrdnje, provjeriti aktualnost često osporavane tvrdnje o osam sekundi pažnje i napraviti lekturu."
+        },
+        {
+          "criterion": "Glas i dosljednost",
+          "score": 87,
+          "rationale": "Razgovoran, energičan i samoironičan glas ostaje prepoznatljiv od uvoda do završetka.",
+          "evidence": ["Nostalgija? Možda.", "Evo, ja se prva moram sjetiti"],
+          "improvement": "Ujednačiti obraćanje i odlučiti jesu li povremene engleske riječi dio namjernog registra ili ih treba prevesti."
+        }
+      ],
+      "summary": "Članak je uglavnom vrlo razumljiv i glas mu je snažan. Najveći urednički dobitak došao bi iz kraćenja, preciznijeg formuliranja znanstvenih tvrdnji i završne lekture.",
+      "score": 73.8,
+      "weight": 0.25
+    },
+    {
+      "agent_id": "credibility",
+      "perspective": "Vjerodostojnost i korisnost",
+      "criteria": [
+        {
+          "criterion": "Potpora tvrdnjama",
+          "score": 70,
+          "rationale": "Članak navodi više relevantnih izvora, no neke neurološke i društvene tvrdnje prelaze iz korelacije u uzročnost bez dovoljne nijanse.",
+          "evidence": ["Teorija Georga Loewensteina (1994.)", "Klikanje na intrigantni naslov aktivira dopamin"],
+          "improvement": "Povezati ključne tvrdnje s konkretnim izvorom u tijelu teksta i razlikovati nalaz studije od autorske interpretacije."
+        },
+        {
+          "criterion": "Nijanse i integritet",
+          "score": 72,
+          "rationale": "Tekst dobro razlikuje legitimnu znatiželju od manipulacije, ali povremeno koristi široke tvrdnje radi ritma i efekta.",
+          "evidence": ["Je li svaka intrigantna rečenica clickbait? Nije.", "Pojma nemamo jesu li informacije stvarne ili lažne."],
+          "improvement": "Zamijeniti apsolutne formulacije preciznijim opisima opsega i uvjeta pod kojima nalaz vrijedi."
+        },
+        {
+          "criterion": "Praktična vrijednost",
+          "score": 77,
+          "rationale": "Liste znakova i preporuke nude primjenjiv okvir, iako dio savjeta ostaje općenit.",
+          "evidence": ["Provjeri izvore: Pouzdani izvori manje su skloni korištenju clickbaita.", "Fokusiraj se na kvalitetu"],
+          "improvement": "Dodati kratku provjeru od tri pitanja kojom čitatelj može ocijeniti naslov prije klika ili objave."
+        },
+        {
+          "criterion": "Usklađenost obećanja",
+          "score": 85,
+          "rationale": "Sadržaj doista objašnjava psihološke mehanizme najavljene naslovom i dodaje načine prepoznavanja clickbaita.",
+          "evidence": ["3 psihološke dimenzije clickbaita", "Kako prepoznati i izbjeći clickbait?"],
+          "improvement": "Naslov ili uvod uskladiti s dodatnim praktičnim dijelom kako savjeti ne bi djelovali kao naknadni dodatak."
+        }
+      ],
+      "summary": "Tekst ispunjava obećanje i daje upotrebljive obrasce, uz solidnu listu izvora. Vjerodostojnost najviše ograničavaju kategorične formulacije nekih znanstvenih tvrdnji i općeniti završni savjeti.",
+      "score": 74.3,
+      "weight": 0.2
+    }
+  ]
+}

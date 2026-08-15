@@ -1,0 +1,41 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lexi-lens"
+version = "0.1.0"
+description = "Multi-agent evaluator for Lexi blog posts and case studies"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "httpx>=0.27,<1",
+  "lxml-html-clean>=0.4,<1",
+  "openai>=1.66,<3",
+  "pydantic>=2.10,<3",
+  "python-dotenv>=1.0,<2",
+  "rich>=13.9,<15",
+  "trafilatura>=2.0,<3",
+  "typer>=0.15,<1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.3,<9", "pytest-asyncio>=0.25,<1", "respx>=0.22,<1", "ruff>=0.9,<1"]
+
+[project.scripts]
+lexi-lens = "lexi_lens.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/lexi_lens"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
